@@ -1,6 +1,6 @@
 # Comment to a new issue.
 issueOpened: >
-  Hi {{user.login}}!
+  Hi @{{user.login}}!
 
   Thank your for raising the issue!
 
@@ -9,7 +9,7 @@ issueOpened: >
   Please make sure you have given us as much context as possible.
 
 pullRequestOpened: >
-  Hi {{user.login}}!
+  Hi @{{user.login}}!
 
   Thank your for raising the pull request!
 
